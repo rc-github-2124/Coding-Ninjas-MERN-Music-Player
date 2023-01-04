@@ -1,0 +1,33 @@
+body{
+    background: linear-gradient(45deg, #2c0079, #000836);
+}
+
+.login-form{
+height: 80vh;
+width: 80vw;
+display: flex;
+justify-content: center;
+align-items: center;
+
+}
+.form-group label{
+    color: white;
+    margin-bottom: 10px;
+}
+.form-group input{
+    color: white;
+    margin-bottom: 10px;
+}
+#loginsubmit{
+margin: 10px;
+background: linear-gradient(45deg, #2c0079, #000836)!important;
+}
+
+.form-check-label{
+color: white;
+
+}
+
+.form-check-input{
+    margin-top: 10px!important;
+}
