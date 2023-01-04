@@ -26,7 +26,7 @@ Clone the project
 Go to the project directory
 
 ```bash
-  cd Music Player
+  cd Coding-Ninjas-MERN-Music-Player
 ```
 
 
