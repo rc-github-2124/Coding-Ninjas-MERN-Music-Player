@@ -1,7 +1,7 @@
 
 # Music Player 
 
-This Project was made from scratch using HTML CSS and Bootstrap
+This Project was made from scratch using HTML CSS and Bootstrap <br>
 This is the Frontend Demo of Music Player
 
 An Assignment by Coding Ninjas 
