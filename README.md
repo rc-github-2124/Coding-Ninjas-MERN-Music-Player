@@ -20,7 +20,7 @@ https://lustrous-gumption-73f53c.netlify.app/
 Clone the project
 
 ```bash
-  git clone https://link-to-project
+  git clone https://github.com/rc-github-2124/Coding-Ninjas-MERN-Music-Player
 ```
 
 Go to the project directory
